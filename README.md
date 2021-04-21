@@ -1,2 +1,2 @@
-# Python_Projects
-I upload some of my projects here!
+# Python_Projects : Covid_19_live_update 
+web scraping python project.
